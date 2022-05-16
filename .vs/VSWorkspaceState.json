@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\fixtures",
+    "\\cypress\\integration",
+    "\\cypress\\pageObjects",
+    "\\cypress\\plugins",
+    "\\cypress\\support",
+    "\\files"
+  ],
+  "SelectedNode": "\\cypress\\fixtures\\practice_data.json",
+  "PreviewInSolutionExplorer": false
+}
